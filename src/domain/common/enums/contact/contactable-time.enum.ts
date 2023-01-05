@@ -1,0 +1,9 @@
+export enum ContactableTimeEnum {
+  TBD,
+  NINE_TO_TWELVE,
+  TWELVE_TO_FORTEEN,
+  FORTEEN_TO_SIXTEEN,
+  SIXTEEN_TO_EIGHTEEN,
+  EIGHTEEN_TO_TWENTY,
+  ETC,
+}

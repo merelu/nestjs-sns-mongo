@@ -1,0 +1,9 @@
+export enum ProjectScaleEnum {
+  TBD,
+  SINGLE_PAGE,
+  MAX_FIFTEEN,
+  FIFTEEN_TO_THIRTY,
+  THIRTY_TO_FORTY,
+  FORTY_TO_FIFTY,
+  MIN_50,
+}
